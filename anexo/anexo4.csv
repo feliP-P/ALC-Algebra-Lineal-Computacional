@@ -1,0 +1,162 @@
+nombre_depto,id_depto,id_provincia,cant_op_organicos,cant_est_productivos
+1º de Mayo,22126,22,1,77
+25 de Mayo,62091,62,7,142
+25 de Mayo,22168,22,2,219
+25 de Mayo,70126,70,7,158
+25 de Mayo,54119,54,7,146
+9 de Julio,70063,70,6,78
+9 de Julio,22105,22,1,266
+9 de Julio,62049,62,6,18
+9 de Julio,82077,82,6,492
+Adolfo Alsina,62007,62,1,1107
+Adolfo Alsina,06007,6,1,432
+Adolfo Gonzales Chaves,06014,6,1,313
+Alberti,06021,6,8,238
+Angaco,70014,70,1,50
+Anta,66007,66,2,519
+Arauco,46007,46,5,165
+Avellaneda,86028,86,8,48
+Avellaneda,06035,6,8,5696
+Avellaneda,62014,62,8,578
+Ayacucho,06042,6,2,594
+Ayacucho,74007,74,2,130
+Azul,06049,6,10,1607
+Añelo,58014,58,17,258
+Baradero,06070,6,9,690
+Belgrano,82007,82,2,1258
+Belgrano,74014,74,2,21
+Belgrano,86042,86,2,256
+Bella Vista,18007,18,3,338
+Biedma,26007,26,2,1993
+Biedma,26007,62,2,1993
+Cafayate,66021,66,5,226
+Caleu Caleu,42014,42,1,22
+Calingasta,70021,70,2,133
+Campana,06126,6,1,1593
+Capital,70028,70,7,4443
+Capital,90084,90,7,8679
+Capital,66028,66,1,6982
+Capital,86049,86,7,3335
+Carmen de Areco,06161,6,5,373
+Caucete,70035,70,9,387
+Cañuelas,06134,6,1,949
+Cerrillos,66035,66,1,328
+Chacabuco,22028,22,4,598
+Chacabuco,06210,6,4,1094
+Chacabuco,74028,74,4,272
+Chicligasta,90021,90,1,711
+Chicoana,66042,66,1,318
+Chilecito,46042,46,29,514
+Chimbas,70042,70,1,448
+Chivilcoy,06224,6,3,1385
+Concordia,30015,30,16,2429
+Confluencia,58035,58,32,8312
+Coronel Dorrego,06189,6,3,405
+Coronel Felipe Varela,46028,46,1,55
+Coronel Pringles,74021,74,2,219
+Coronel Pringles,06196,6,2,563
+Cruz del Eje,14028,14,1,409
+Cushamen,26014,26,3,225
+El Carmen,38014,38,4,1262
+El Cuy,62035,62,3,38
+Escalante,26021,26,3,4005
+Federal,30035,30,1,361
+Gaiman,26042,26,4,209
+Gastre,26049,26,2,12
+General Alvarado,06280,6,1,901
+General Alvear,18056,18,2,66
+General Alvear,06287,6,2,182
+General Alvear,50014,50,2,653
+General Güemes,22063,22,7,323
+General Güemes,66049,66,7,414
+General Ocampo,46084,46,1,22
+General Paz,18063,18,1,92
+General Paz,06343,6,1,220
+General Roca,62042,62,97,6523
+General Roca,14035,14,97,1067
+Graneros,90035,90,1,42
+Gualeguay,30049,30,2,889
+Güer Aike,78021,78,2,1883
+Juan Bautista Alberdi,90042,90,3,264
+La Cocha,90049,90,2,98
+La Paz,10070,86,14,107
+La Paz,10070,10,14,107
+La Paz,50042,50,9,58
+Languiñeo,26056,26,1,19
+Las Flores,06455,6,6,458
+Las Heras,50049,50,2,1269
+Lavalle,50056,50,3,376
+Lavalle,18091,18,3,171
+Lobos,06483,6,1,785
+Lules,90063,90,2,325
+Magallanes,78042,78,1,202
+Malargüe,50077,50,1,385
+Malvinas Argentinas,06515,6,2,2510
+Mercedes,06532,6,4,1075
+Mercedes,18105,18,4,531
+Monte Caseros,18112,18,1,520
+Montecarlo,54084,54,2,405
+Monteros,90070,90,8,440
+Paso de Indios,26070,26,1,29
+Pichi Mahuida,62063,62,1,299
+Pilar,06638,6,1,4585
+Pilcaniyeu,62070,62,2,86
+Pilcomayo,34049,34,1,457
+Pocito,70070,70,2,484
+Quebrachos,86140,86,1,51
+Rauch,06672,6,3,394
+Rawson,26077,26,11,2457
+Rivadavia,66133,66,8,64
+Rivadavia,86154,86,8,100
+Rivadavia,70084,70,8,464
+Rivadavia,50084,50,2,1016
+Rosario,82084,82,2,25338
+Rosario de la Frontera,66140,66,3,290
+Saavedra,06700,6,1,557
+San Antonio de Areco,06735,6,1,546
+San Carlos,66154,66,10,8
+San Carlos,50091,50,10,523
+San Ignacio,54098,54,6,479
+San Javier,82098,82,185,373
+San Javier,14133,14,185,630
+San Javier,54105,54,185,120
+San Justo,82112,82,1,793
+San Justo,14140,14,1,5059
+San Lorenzo,82119,82,2,3219
+San Lorenzo,22147,22,2,83
+San Pedro,54112,54,7,18
+San Pedro,06770,6,7,1132
+San Pedro,38063,38,7,446
+San Rafael,50105,50,23,2931
+San Salvador,30088,30,3,391
+Santa Rosa,10098,10,9,89
+Santa Rosa,50112,50,9,286
+Sarmiento,26091,26,2,194
+Sarmiento,86182,86,2,20
+Sarmiento,70105,70,2,265
+Tandil,06791,6,3,3862
+Tehuelches,26098,26,2,107
+Tinogasta,10105,10,4,133
+Tres Arroyos,06833,6,3,1567
+Tupungato,50126,50,13,584
+Uruguay,30098,30,2,1618
+Valle Viejo,10112,10,2,106
+Victoria,30105,30,3,625
+Villarino,06875,6,3,602
+Yerba Buena,90119,90,2,1358
+Biedma,26007,26,2,1993
+Biedma,26007,62,2,1993
+Cachi,66014,66,1,41
+Caseros,82014,82,1,2079
+General Las Heras,06329,6,2,223
+Godoy Cruz,50021,50,3,2163
+Guachipas,66063,66,1,43
+La Paz,10070,86,14,107
+La Paz,30070,30,9,787
+La Paz,10070,10,14,107
+La Plata,06441,6,5,7323
+Pergamino,06623,6,1,2310
+Rawson,70077,70,11,759
+San Isidro,06756,6,1,8221
+Villaguay,30113,30,1,704
+Lincoln,06469,6,1,1096
